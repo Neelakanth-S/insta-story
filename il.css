@@ -21,7 +21,7 @@ body{
     margin-top: 50px;
 }
 
-.wrapper{
+.w{
     width: 70%;
     max-width: 1000px;
     display: grid;
@@ -29,7 +29,7 @@ body{
     grid-gap: 30px;
 }
 
-.left-col{
+.l{
     display: flex;
     flex-direction: column;
 }
